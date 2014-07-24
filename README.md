@@ -53,4 +53,4 @@ The script will leave one tidy dataset in a file titled average_data. It has fou
 
 [03]:http://vimeo.com/33727555
 
-[04]:this paper
+[04]:http://vita.had.co.nz/papers/tidy-data.pdf
