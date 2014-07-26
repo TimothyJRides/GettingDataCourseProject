@@ -63,5 +63,6 @@ complete_labels <- NULL
 average_data <- melt(complete_aggregate,c("subject","activity"),names2)
 colnames(average_data)[3:4] <- c("motion","average")
 complete_aggregate <- NULL
+names2 <- NULL
 
 # average_data is your tidy data set.
